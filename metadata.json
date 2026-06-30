@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Agence de Prêt et de Crédit",
+  "description": "Site web moderne et professionnel pour une agence de prêt et de crédit, avec simulateur, formulaires de demande et contact, et tableau de bord de gestion administrateur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
